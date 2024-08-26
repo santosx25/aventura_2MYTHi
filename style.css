@@ -1,8 +1,16 @@
 body{
-    background: rgb(6, 205, 255)
-    color:black
+    background: rgb(6, 205, 255);
+    color: rgb(56, 52, 52);
     font-family: "Times New Roman", Times, serif;
     display: flex;
     justify-content: center;
-    aling-ti
+    aling-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+button{
+    background: rgb(216, 108, 7);
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
